@@ -1,0 +1,14 @@
+Package: Jmisc
+Type: Package
+Title: Julian Miscellaneous Function
+Version: 0.3.2
+Date: 19-03-2014
+Author: TszKin Julian Chan <ctszkin@gmail.com>
+Maintainer: TszKin Julian Chan <ctszkin@gmail.com>
+Description: Some handy function in R
+License: GPL (>= 2)
+LazyLoad: yes
+Suggests:
+    testthat,
+    parallel
+BugReports: TszKin Julian Chan <ctszkin@gmail.com>
