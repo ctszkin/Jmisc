@@ -1,11 +1,10 @@
 #' Export all function in an environment to a cluster
-#' @name sourceAll
-#' @aliases sourceAll
+#' @name exportAllFunction
+#' @aliases exportAllFunction
 #' @title Source all the R files of a directory
 #' @param cl Target cluster
 #' @param envir environment of functions. Default is .GlobalEnv
 #' @author TszKin Julian Chan \email{ctszkin@@gmail.com}
-#' @seealso \link{repCol}
 #' @export
 #' @examples
 #' \dontrun{   
