@@ -1,4 +1,4 @@
 Jmisc
 =====
 
-Julian Miscellaneous Function
+Julian's Miscellaneous Function
